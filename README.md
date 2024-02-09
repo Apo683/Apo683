@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🌱 I’m currently AI learning at OpenClassrooms, training : https://openclassrooms.com/fr/paths/794-machine-learning-engineer
+- 🔭 I’m currently working on few school projects
 <!--
 **Apo683/Apo683** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
